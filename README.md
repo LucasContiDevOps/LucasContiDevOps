@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**LucasContiDevOps/LucasContiDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Lucas Conti 👋
 
-Here are some ideas to get you started:
+Analista de Suporte Pleno em transição para Cloud & DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🎓 Análise e Desenvolvimento de Sistemas - UNIP
+- ☁️ AWS Cloud Practitioner
+- 📚 Formação Escola da Nuvem
+- 🐧 Experiência com Linux, Docker e Redes
+- 🚀 Estudando AWS, Terraform e CI/CD
+- 🎯 Objetivo: atuar como Cloud Analyst ou DevOps Engineer
+
+## Tecnologias
+
+- Linux
+- Docker
+- Git
+- GitHub
+- PostgreSQL
+- SQL Server
+- AWS
+- Bash
+
+## Projetos
+
+### Linux Networking Runbook
+Documentação de administração e troubleshooting de rede em Linux.
+
+### Docker Administration & Troubleshooting
+Procedimentos operacionais e resolução de problemas em ambientes Docker.
+
+### CI/CD Pipeline
+Estudos e implementações de pipelines automatizados.
+
+## Certificações
+
+- AWS Certified Cloud Practitioner
+- Escola da Nuvem
+
+## Contato
+
+💼 LinkedIn:
+www.linkedin.com/in/lucas-conti-nunes
+
+📂 GitHub:
+github.com/LucasContiDevOps
+
