@@ -1,7 +1,7 @@
 
 ## Olá, eu sou Lucas Conti 👋
 
-Analista de Suporte Pleno em transição para Cloud & DevOps.
+Analista de Infraestrutura e Suporte em transição para Cloud & DevOps.
 
 ## Sobre mim
 
@@ -9,46 +9,90 @@ Analista de Suporte Pleno em transição para Cloud & DevOps.
 - 🎓 MBA Cloud Computing & DevOps - Impacta
 - ☁️ AWS Cloud Practitioner
 - 📚 Formação Escola da Nuvem
-- 🐧 Experiência com Linux, Docker e Redes
-- 🚀 Estudando AWS, Terraform e CI/CD
+- 🐧 Experiência prática com Linux, Docker, Redes e PostgreSQL
+- ☁️ Projetos hands-on em AWS utilizando EC2, S3, Route 53 e CloudWatch
+- 🚀 Aprofundando conhecimentos em Terraform e CI/CD
 - 🎯 Objetivo: atuar como Cloud Analyst ou DevOps Engineer
 
 ## Tecnologias
 
+🛠️ Tecnologias e Ferramentas
+
+Infraestrutura
 - Linux
+- Redes TCP/IP
+- OpenVPN
+
+Containers
 - Docker
-- Git
-- GitHub
+
+Banco de Dados
 - PostgreSQL
 - SQL Server
-- AWS
-- Bash
 
-## AWS
-
+Cloud (AWS)
 - EC2
 - S3
 - Route 53
-- CloudWatch
 - IAM
+- CloudWatch
 - Elastic IP
 - VPC
-- Hosted Zones
-- Cloud Front
+- CloudFront
 - ELB
+
+Versionamento
+- Git
+- GitHub
+
+Automação
+- Bash
+
+Estudos Atuais
 - ECS
 - EKS
+- Terraform
+- CI/CD
 
 ## Projetos
 
-### Linux Networking Runbook
+☁️ AWS Web Environment
+
+Provisionamento e publicação de ambiente web utilizando serviços AWS.
+
+Serviços utilizados:
+
+- EC2
+- S3
+- IAM
+- Route 53
+- CloudWatch
+- Elastic IP
+
+Aprendizados:
+
+- Provisionamento de ambientes;
+- Configuração DNS;
+- Monitoramento;
+- Publicação de aplicações.
+
+
+
+### 🐧 Linux Networking Runbook
 Documentação de administração e troubleshooting de rede em Linux.
 
-### Docker Administration & Troubleshooting
+### 🐳 Docker Administration & Troubleshooting
 Procedimentos operacionais e resolução de problemas em ambientes Docker.
 
-### CI/CD Pipeline
-Estudos e implementações de pipelines automatizados.
+### 🔄 CI/CD Pipelines
+
+Implementação prática de pipelines desenvolvidas durante as aulas, contemplando conceitos de automação, integração contínua e entrega contínua.
+
+Projetos incluídos:
+
+Projeto de redução de Toil (automação de atividades repetitivas);
+Pipeline 1;
+Pipeline 2.
 
 ## Certificações
 
@@ -57,9 +101,9 @@ Estudos e implementações de pipelines automatizados.
 
 ## Contato
 
-💼 LinkedIn:
-www.linkedin.com/in/lucas-conti-nunes
+💼 LinkedIn
+https://www.linkedin.com/in/lucas-conti-nunes
 
-📂 GitHub:
-github.com/LucasContiDevOps
+📂 GitHub
+https://github.com/LucasContiDevOps
 
