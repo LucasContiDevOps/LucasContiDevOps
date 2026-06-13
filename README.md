@@ -6,6 +6,7 @@ Analista de Suporte Pleno em transição para Cloud & DevOps.
 ## Sobre mim
 
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIP
+- 🎓 MBA Cloud Computing & DevOps - Impacta
 - ☁️ AWS Cloud Practitioner
 - 📚 Formação Escola da Nuvem
 - 🐧 Experiência com Linux, Docker e Redes
@@ -22,6 +23,21 @@ Analista de Suporte Pleno em transição para Cloud & DevOps.
 - SQL Server
 - AWS
 - Bash
+
+## AWS
+
+- EC2
+- S3
+- Route 53
+- CloudWatch
+- IAM
+- Elastic IP
+- VPC
+- Hosted Zones
+- Cloud Front
+- ELB
+- ECS
+- EKS
 
 ## Projetos
 
